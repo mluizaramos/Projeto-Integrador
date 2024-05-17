@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.titulo{
+  font-size: 28;
+  color: rgb(0, 0, 146);
+  
+}
